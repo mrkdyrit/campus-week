@@ -10,7 +10,8 @@
 - Registration Fee: 50 PHP
 - Players: 16
 - Tournament Format: Single Elimination
-- Winning Condition: Best of 3
+- Winning Condition (Prelims & Semis): Best of 1
+- Winning Condition (Finals): Best of 5
 - Total number of games: 17
 - Prize: Zeus x Gundam Wired Gaming Mouse
 - Assigned Members: David, Mark, Ix & Jeff
