@@ -23,7 +23,7 @@
 - Teams: 8
 - Tournament Format: Single Elimination
 - Winning Condition (Prelims): Best of 1
-- Winning Condition (Semis): Best of 3
+- Winning Conditoion (Semis): Best of 3
 - Winning Condition (Finals): Best of 5
 - Total number of games: 15
 - Prize: Tuneful N35 TWS Bluetooth Wireless Earphone 5.2
